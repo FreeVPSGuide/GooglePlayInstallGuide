@@ -21,14 +21,13 @@
 
 [3、运行谷歌商店效果](#3实测谷歌商店效果)
 * [3.1、荣耀V10的鸿蒙3.0系统（Android 10）](#31荣耀V10鸿蒙30系统Android10)
-## 3.1、荣耀V10的鸿蒙3.0系统（Android 10）
-## 3.2、红米Note9 Android 10 （未预装三件套）
-## 3.3、红米K70 Android 14
-## 3.4、真我GT 2 Pro Android 14
-## 3.5、GBox
-## 3.6、MicroG
-## 3.7、VMOS安装虚拟机
-## 3.8、出境易
+* [3.2、红米Note9 Android 10 （未预装三件套）](#32红米Note9Android10未预装三件套)
+* [3.3、红米K70 Android 14](#33红米K70Android14)
+* [3.4、真我GT 2 Pro Android 14](#34真我GT2ProAndroid14)
+* [3.5、GBox](#35GBox)
+* [3.6、MicroG](#36MicroG)
+* [3.7、VMOS安装虚拟机](#37VMOS安装虚拟机)
+* [3.8、出境易](#38出境易)
 
 [4、实测安装教程(实测红米Note9、红米K70、荣耀V10鸿蒙系统)](#4安装教程)
 
