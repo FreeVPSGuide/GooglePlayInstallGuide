@@ -45,6 +45,9 @@
 
 要想正常使用谷歌商店，必须安装这个谷歌三件套。
 
+![](https://files.mdnice.com/user/4562/6a0092e5-099e-4622-a9a9-8a1ea4ab6074.png)
+
+
 1、谷歌Play商店（Google Play Store）
 
 Google Play Store 谷歌官方的应用市场 很多国外的应用软件需要在这个App上下载
@@ -61,7 +64,9 @@ Android系统官方服务框架。
 
 通过谷歌开放平台上架的应用和游戏都需要GMS的支持。上面两个商店和账号服务的应用也离不开框架作为“地基”，否则就会无法打开或无法使用全部功能。
 
-现在知道需要什么三件套了吧：
+一部分谷歌系的App必须谷歌Play服务（Google Play Service）或谷歌服务框架(Google Service Framework)才能正常运行，例如Youtube、ChatGPT
+
+现在知道为什么需要什么三件套了吧！
 
 
 ![](https://files.mdnice.com/user/4562/f3b23b99-c596-4e7b-b93c-f3410e3bc502.png)
