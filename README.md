@@ -255,7 +255,7 @@ https://pan.quark.cn/s/32ac198b53ae
 
 # 3、实测谷歌商店效果
 
-## 3.1、荣耀V10的鸿蒙3.0系统（Android 10）
+## 31荣耀V10的鸿蒙3.0系统Android10
 
 ![](https://files.mdnice.com/user/4562/6878e550-8e36-4f86-bc33-163abc0e2a99.jpg)
 
