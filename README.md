@@ -268,13 +268,13 @@ https://pan.quark.cn/s/32ac198b53ae
 
 ![](https://files.mdnice.com/user/4562/d267c91b-23af-4808-88c6-b1ec904e0017.jpg)
 
-## 3.2、红米Note9 Android 10 （未预装三件套）
+## 3.2、红米Note9Android10未预装三件套
 
 上面的实测教程就是使用的红米Note 9：
 
 ![](https://files.mdnice.com/user/4562/46ef0edf-bdb8-46b7-9796-f82031bd4942.jpg)
 
-## 3.3、红米K70 Android 14
+## 3.3、红米K70Android14
 
 自带三件套，点击【设置】>【更多设置】>【应用设置】,然后搜索“google”
 
@@ -285,7 +285,7 @@ https://pan.quark.cn/s/32ac198b53ae
 
 ![](https://files.mdnice.com/user/4562/bf247c9d-e300-4fae-8e71-ae47b7d2fb7c.jpg)
 
-## 3.4、真我GT 2 Pro Android 14
+## 3.4、真我GT2ProAndroid14
 
 虽然预装了GMS（谷歌三件套），但仅有一个"谷歌Play服务"，谷歌商店也是正常运行没问题的。
 
