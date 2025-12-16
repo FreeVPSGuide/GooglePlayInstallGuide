@@ -20,6 +20,15 @@
 [2、资源下载(所有版本的谷歌三件套下载)](#2资源下载)
 
 [3、运行谷歌商店效果](#3实测谷歌商店效果)
+* [3.1、荣耀V10的鸿蒙3.0系统（Android 10）](#31荣耀V10的鸿蒙30系统Android10)
+## 3.1、荣耀V10的鸿蒙3.0系统（Android 10）
+## 3.2、红米Note9 Android 10 （未预装三件套）
+## 3.3、红米K70 Android 14
+## 3.4、真我GT 2 Pro Android 14
+## 3.5、GBox
+## 3.6、MicroG
+## 3.7、VMOS安装虚拟机
+## 3.8、出境易
 
 [4、实测安装教程(实测红米Note9、红米K70、荣耀V10鸿蒙系统)](#4安装教程)
 
@@ -246,9 +255,7 @@ https://pan.quark.cn/s/32ac198b53ae
 
 # 3、实测谷歌商店效果
 
-
-1、荣耀V10的鸿蒙3.0系统（Android 10）
-
+## 3.1、荣耀V10的鸿蒙3.0系统（Android 10）
 
 ![](https://files.mdnice.com/user/4562/6878e550-8e36-4f86-bc33-163abc0e2a99.jpg)
 
@@ -262,13 +269,13 @@ https://pan.quark.cn/s/32ac198b53ae
 
 ![](https://files.mdnice.com/user/4562/d267c91b-23af-4808-88c6-b1ec904e0017.jpg)
 
-2、红米Note9 Android 10 （未预装三件套）
+## 3.2、红米Note9 Android 10 （未预装三件套）
 
 上面的实测教程就是使用的红米Note 9：
 
 ![](https://files.mdnice.com/user/4562/46ef0edf-bdb8-46b7-9796-f82031bd4942.jpg)
 
-3、红米K70 Android 14
+## 3.3、红米K70 Android 14
 
 自带三件套，点击【设置】>【更多设置】>【应用设置】,然后搜索“google”
 
@@ -279,13 +286,13 @@ https://pan.quark.cn/s/32ac198b53ae
 
 ![](https://files.mdnice.com/user/4562/bf247c9d-e300-4fae-8e71-ae47b7d2fb7c.jpg)
 
-4、真我GT 2 Pro Android 14
+## 3.4、真我GT 2 Pro Android 14
 
 虽然预装了GMS（谷歌三件套），但仅有一个"谷歌Play服务"，谷歌商店也是正常运行没问题的。
 
 ![](https://files.mdnice.com/user/4562/aefc3ec7-f379-426e-a62f-8bf024805ddc.jpg)
 
-5、GBox
+## 3.5、GBox
 
 只要在华为（应该也包括荣耀）的安卓手机上安装GBox，即可正常使用 Google商店下载各种App，内置谷歌三件套谷歌服务框架、谷歌Play框架、谷歌商店。
 
@@ -303,7 +310,7 @@ https://pan.quark.cn/s/32ac198b53ae
 
 ![](https://files.mdnice.com/user/4562/efa2c5d2-101d-40ec-9a31-ccfcfe6cc0f8.jpg)
 
-6、MicroG
+## 3.6、MicroG
 
 华为这类手机（被美国制裁）本身是无法合法授权，安装使用谷歌三件套，所以只能以一种”盗版“的方式——安装MicroG三件套。
 
@@ -316,7 +323,7 @@ https://pan.quark.cn/s/32ac198b53ae
 ![](https://files.mdnice.com/user/4562/064fee47-1aee-492f-8c5f-da19cedc09a4.jpg)
 
 
-7、VMOS安装虚拟机
+## 3.7、VMOS安装虚拟机
 
 独立的安卓系统，自带谷歌三件套：
 
@@ -333,23 +340,19 @@ https://pan.quark.cn/s/32ac198b53ae
 ![](https://files.mdnice.com/user/4562/7e27faeb-6e13-4e6f-9c44-3d2f26d665f4.jpg)
 
 
-8、出境易
-
+## 3.8、出境易
 
 仅仅只是谷歌商店的一个“简陋版”的“平替”吧！
 
 ![](https://files.mdnice.com/user/4562/110f95a0-dacc-4154-92b8-a8515370fd86.jpg)
 
-
 ![](https://files.mdnice.com/user/4562/6456e486-6526-46c2-acf7-c26390d9cb8f.jpg)
 
 下载试了试Tiktok，不用登录、注册简单看了一下，可以运行：
 
-
 ![](https://files.mdnice.com/user/4562/de81bea0-978a-4646-bf04-5bd2a078ba5b.jpg)
 
 Tiktok在“出境易”这类虚拟机上，不需要拔卡，可以正常运行。
-
 
 ![](https://files.mdnice.com/user/4562/851241a7-5091-4f2e-95ee-d0b6eacaec75.jpg)
 
