@@ -15,7 +15,7 @@
 
 如果你使用免费的VPN，在登录谷歌账号时，有一定封号的风险，强烈不推荐使用免费梯子。
 
-👉👉👉 [一键注册青山VPN，免费使用24小时](https://qsqs.life/register?code=hzhSNrdy)
+👉👉👉 [一键注册青山VPN，免费使用24小时](https://qsqs.club/register?code=hzhSNrdy)
 
 体验⼀下浏览TiktoK 视频，没有任何卡顿现象，相当流畅。
 
