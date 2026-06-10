@@ -15,7 +15,7 @@
 
 如果你使用免费的VPN，在登录谷歌账号时，有一定封号的风险，强烈不推荐使用免费梯子。
 
-👉👉👉 [一键注册MIKI Cloud，免费使用24小时](https://miki.la/#/register?code=9qeqAeH8)
+👉👉👉 [一键注册MIKI Cloud，月付低至18元/150G](https://miki.la/#/register?code=9qeqAeH8)
 
 体验⼀下浏览TiktoK 视频，没有任何卡顿现象，相当流畅。
 
