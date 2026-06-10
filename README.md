@@ -15,11 +15,11 @@
 
 如果你使用免费的VPN，在登录谷歌账号时，有一定封号的风险，强烈不推荐使用免费梯子。
 
-👉👉👉 [一键注册青山VPN，免费使用24小时](https://qsqs.club/register?code=hzhSNrdy)
+👉👉👉 [一键注册MIKI Cloud，免费使用24小时](https://miki.la/#/register?code=9qeqAeH8)
 
 体验⼀下浏览TiktoK 视频，没有任何卡顿现象，相当流畅。
 
-价格方便相对评价，最低14元/月/100G
+价格方便相对评价，最低18元/月/150G
 
 ![Tiktok实测](https://github.com/FreeVPSGuide/TiktokInstallGuide/blob/main/Images/1000.gif)
 
